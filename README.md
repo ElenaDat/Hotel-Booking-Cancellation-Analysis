@@ -91,8 +91,8 @@ Cancellations are driven by a combination of:
 
 ## 🛠 Tools & Technologies
 - Power BI  
-- DAX  
-- Excel  
+- Basic DAX  
+    
 
 ---
 
@@ -108,7 +108,7 @@ The dataset includes booking-level data such as dates, customer types, pricing, 
 ---
 
 ## 📸 Dashboard Preview
-Dashboard.png
+![](Dashboard.png)
 
 ---
 

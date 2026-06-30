@@ -114,9 +114,9 @@ The dataset was made available on Kaggle by user "Jesse Mostipak" and is publicl
 ---
 
 ## 📁 Files Included
-- `hotel_bookings.csv` → dataset  
-- `hotel_cancellation_dashboard.pbix` → Power BI dashboard  
-- `Project Summary.docx` → documentation  
+- `hotel_bookings.csv` → Dataset  
+- `Hotel Booking Cancellation Analysis.pbix` → Power BI dashboard  
+- `Hotel_Booking_Cancellation_Project_Summary.docx` → Documentation  
 
 ---
 

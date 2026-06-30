@@ -103,7 +103,7 @@ The dataset used in this project is the **Hotel Booking Demand Dataset**.
 - Authors: Antonio, Almeida & Nunes (2019)  
 - Link: https://www.kaggle.com/datasets/jessemostipak/hotel-booking-demand
   
-The dataset was made available on Kaggle by user "jessemostipak" and is publicly available for educational and analytical purposes.
+The dataset was made available on Kaggle by user "Jesse Mostipak" and is publicly available for educational and analytical purposes.
 
 
 ---
